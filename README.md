@@ -118,7 +118,7 @@ graph TB
   },
   "security": {
     "encryption": "Post-Quantum Cryptography",
-    "authentication": "JWT + Zero Knowledge Proofs"
+    "authentication": "AppWrite (or open souce tools like Clerk/NextAuth) + Zero Knowledge Proofs"
   }
 }
 ```
